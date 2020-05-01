@@ -23,6 +23,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Using React Native to build a weather app for learning purpose",
+    "githubUrl": "https://github.com/hoon0624/weather_app"
   }
 }
